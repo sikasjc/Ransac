@@ -73,12 +73,12 @@ More information about the code: [here][8](Chinese)
   [1]: http://www.math-info.univ-paris5.fr/~lomn/Cours/CV/SeqVideo/Material/RANSAC-tutorial.pdf
   [2]: https://sikasjc.github.io/2018/04/21/Ransac/
   [3]: https://sikasjc.github.io/2018/04/21/Ransac/
-  [4]: http://ormnbkvfv.bkt.clouddn.com/18-4-22/92143570.jpg
+  [4]: https://i.postimg.cc/3RN3h91t/92143570.png
   [5]: https://sikasjc.github.io/2018/05/04/APC_ransac/
   [6]: https://sikasjc.github.io/2018/05/04/APC_ransac/
-  [7]: http://ormnbkvfv.bkt.clouddn.com/18-5-4/67603747.jpg
+  [7]: https://i.postimg.cc/Jh6Gjsdd/67603747.png
   [8]: https://sikasjc.github.io/2018/04/27/vanishing_point/
   [9]: https://sikasjc.github.io/2018/04/27/vanishing_point/
-  [10]: http://ormnbkvfv.bkt.clouddn.com/18-4-27/30300732.jpg
-  [11]: http://ormnbkvfv.bkt.clouddn.com/18-4-27/24445890.jpg
-  [12]: http://ormnbkvfv.bkt.clouddn.com/18-4-27/53704287.jpg
+  [10]: https://i.postimg.cc/9Q2R2571/30300732.png
+  [11]: https://i.postimg.cc/rstc0mvW/24445890.png
+  [12]: https://i.postimg.cc/NLqt1tcn/53704287.png
